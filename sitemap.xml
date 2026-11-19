@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/notes/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/notes/arrays-in-c.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/notes/dbms-keys.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/notes/adders.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url><loc>https://portfolio-web-production-78d18fc9.up.railway.app/notes/python-functions.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/notes/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/notes/arrays-in-c.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/notes/dbms-keys.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/notes/adders.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://mohammadtaufeeq.up.railway.app/notes/python-functions.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 </urlset>
