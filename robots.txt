@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://portfolio-web-production-78d18fc9.up.railway.app/sitemap.xml
